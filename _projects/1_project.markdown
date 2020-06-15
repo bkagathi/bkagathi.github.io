@@ -1,55 +1,29 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Internship @ UIC
+description: June 2018 - August 2018
+img: /assets/img/Uiclogo.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+### **What I did?**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+During my time researching at the University of Illinois at Chicago, I worked under the mentorship of a Ph.D. student within the department of Electrical and Computer Engineering. My main objective centered around nanotechnology and its application to Ga2O3 power devices; I was responsible for both understanding as well as educating my team on all new developments regarding these power devices.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I gained skills working with academic databases and understanding complex research publications. I was able to extract key information and create easily digestible summaries for my mentor to evaluate.
+
+In addition to my introduction to research, I was able to actively apply my knowledge to contribute to the creation of testing material to physically manifest the concepts that I had been reading about. Given specifications, I had the opportunity to create masks for various phone and computer chip designs which my mentor used as a template for chip fabrication. Furthermore, I was given exposure to the technical process of the physical creation of power devices in a clean room.
 
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+### **Why I did it?**
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+My initial interest in this internship sparked from my curiosity in nanotechnology. I hoped to learn more about its real-world applications and current active developments. I wanted to explore the fields of electrical and computer engineering while actively contributing to a larger project. I also intended to gain exposure and skills in regard to the steps of researching in an academic setting that would help me in the future. 
 
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### **What I used?**
 
+- Klayout
+- Academic Databases 
 
-<br/><br/>
+### **Outcome**
 
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+From this experience, I gained skills in parsing complex research for key information as well as learned basic technical skills relating to the development of Ga2O3 power devices.

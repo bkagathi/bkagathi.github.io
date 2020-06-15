@@ -1,56 +1,39 @@
 ---
 layout: page
-title: Project 3
-description: a project that redirects to another website
-img:
-redirect: https://unsplash.com
+title: Upstyle
+description: May 2020 - Current
+img: /assets/img/Upstyle.png
 ---
+### **What is the project?**
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+With a large trend in thrifting for clothes sparking over the last few years, we saw the need to create an online platform that imitates the ability of reselling clothing. Our current developing application provides the ability for users to create “closets” where they can sell their clothing at their preferred price and also have the ability to bid on clothing other users are selling. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+You can visit Upstyle's landing page [here](https://upstyle.app).
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### **What I am doing?**
 
+My main role in creating this application is designing all the screens that will be encompassed in the app. Furthermore, I am learning to code in Flutter where I have so far been able to implement some of the designs I have created. Furthermore, I was able to assist in creating a landing page with our designs where we could begin to gauge interest in the app itself.  
+
+I also work on figuring out and researching various aspects that may needed in our application in order to be successful and easy for a consumer to use. 
+
+### **Why I am doing it?**
+
+The purpose of creating this application was to feed my interest in creating a product that could be effective in this large transition to completely online businesses. I also wanted to learn some new programming languages and learn how to create apps.
+
+### **What I Used?**
+
+- Adobe XD
+- Flutter
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Upstyle_1.png" alt="" title="example image" style="object-fit: contain;">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Upstyle_2.png" alt="" title="example image" style="object-fit: contain;"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Upstyle_3.png" alt="" title="example image" style="object-fit: contain;"/>
+</div>
+<div class="img_row">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Upstyle_4.png" alt="" title="example image" style="object-fit: contain;"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Upstyle_5.png" alt="" title="example image" style="object-fit: contain;"/>
 </div>
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
+    Here are some screens from the Upstyle app that I designed and worked on programming with Flutter. 
 </div>

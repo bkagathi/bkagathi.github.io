@@ -1,55 +1,43 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
-img: /assets/img/2.jpg
+title: Smart Shoes
+description: June 2019 - August 2019
+img: /assets/img/shoes.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+### **What was the project?**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The inspiration for this project stemmed from the overuse of looking down at phones while crossing busy streets or biking in large cities. Our idea was to tackle one cause of this problem, people having to look down at their phone when looking at directions. 
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Our solution was creating a piece that would fit under your shoelaces and notify you directions such as “turn right”, “turn left”, “turn around” through vibrational technology. 
+
+Our prototype consisted of a Bluetooth capable Arduino in a custom Cadded case. We added vibrational motors and modules that were attached to the Arduino and concealed within our case. We implemented simple functionalities such as vibrate right foot when needing to turn right and vibrate left foot when needing to turn left. 
+
+### **What I did?**
+
+One of my major contributions included brainstorming a unique problem to solve and looking at various approaches and applications for solutions. This involved researching various problems affecting people at the time and evaluating the functionality of various solutions that came to mind. 
+
+During the process of developing a small prototype I learned how to use CAD (fusion 360) to create a case that would fit perfectly to the dimensions of the Arduino and the vibrational pieces that would be added. Furthermore, I worked with the Arduino IDE software to program the device; I created various vibrational patterns that would be able to signal different directions needed. 
+
+I was also able to get more comfortable using a Bluetooth Arduino and understanding the meaning of the various pins it contains. In order to attach our vibrating technology to our Arduino, I was also introduced to the soldering process. 
+
+### **Why I did it?**
+
+With the pure interest of going through the entire process of creating my own product, I went into creating these smart shoes prototype with a few of my friends. I wanted to build something that would solve a real problem and implement a project that I could envision others using. I also hoped to explore my curiosity in hardware and also teach myself some new skills. 
+
+### **What I Used?**
+
+- CAD (Fusion 360)
+- Arduino IDE
+- Bluetooth Arduino
+- Soldering
 
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/shoes_1.jpg" alt="" title="front side" style="object-fit: contain;">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/shoes_2.jpg" alt="" title="back side" style="object-fit: contain;"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/shoes_3.jpg" alt="" title="on shoe" style="object-fit: contain;"/>
 </div>
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
+    Here you can see the case I created in CAD after it was 3D printed.
 </div>

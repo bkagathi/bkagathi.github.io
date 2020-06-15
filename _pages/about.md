@@ -1,23 +1,22 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
-
+title: <strong>Bhavika</strong> Kagathi
+description: Bioengineering Undergraduate @ UIUC
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile_pic.jpg
+  # address: >
+  #   <p></p>
+  #   <p></p>
+  #   <p></p>
 
-news: true
+news: false
 social: true
 ---
+I am currently studying Bioengineering with a minor in Electrical Engineering at the University of Illinois at Urbana-Champaign. My interests primarily lie within its subfields of imaging and sensing as well as computational and systems biology. Currently I am intrigued in looking more into medical devices and data driven medicine. I am open to exploring new fields as well and greatly enjoy gaining new perspective and knowledge.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As of 2020, I serve as an active leader in Engineering Council where I hold leadership positions in the *EXPO* (engineering career fair), *EOB* (engineering outreach bureau), and Corporate committees. I am also an active member of Alpha Kappa Psi, a professional business fraternity where I have developed a tremendous amount of professional interaction experience and networking skills. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Please check out some of my past and current projects. Feel free to contact me or find out more about me through my various social medias linked below!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
